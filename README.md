@@ -7,9 +7,15 @@ Requires libraries:
 	-	django
 	-	markdown
 	-	django-filter
-	-	Django API Rest Django Admin Interface for administration panels.
+
+
+Django API Rest Django Admin Interface for administration panels.
+
+	-	admin;12345
+
 
 Full HTML functionally CRUD.
+
 
 Consuming tested endpoints:
 
@@ -18,12 +24,14 @@ Consuming tested endpoints:
 	-	Browser ✔
 	-	To run:
 
-1 - Pull the directory
+To Run:
 
-2 - Install libreries
+	-	 Pull the directory
 
-3 - Move to egoApi where manage.py file is located
+	-	 Install libreries
 
-4 - Exec python manage.py runserver in your terminal to run the server.
+	-	 Move to egoApi where manage.py file is located
 
-5 - In browser URL: https://localhost:8000/apicar/autos/
+	-	 Exec python manage.py runserver in your terminal to run the server.
+
+	-	 In browser URL: https://localhost:8000/apicar/autos/
