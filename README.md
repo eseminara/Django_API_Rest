@@ -21,8 +21,7 @@ Consuming tested endpoints:
 
 	-	Postman ✔
 	-	HTML ✔
-	-	Browser ✔
-	-	To run:
+	-	Browser ✔ (https://localhost:8000/apicar/autos.json)
 
 To Run:
 
